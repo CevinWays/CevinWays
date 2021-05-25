@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CevinWays
+- 👀 I’m interested in Mobile Programming, Machine Learning and AI
+- 🌱 I’m currently learning Mobile Programming
+- 💞️ I’m looking to collaborate on any oppurtunity in engineering
+- 📫 How to reach me : https://cevin-resume.firebaseapp.com/
