@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CevinWays
-- 👀 I’m interested in Mobile Programming and Cloud
-- 💻 My current job is Mobile Engineer
+- 👀 I’m interested in Mobile Programming and Machine Learning
+- 💻 My current job is Mobile Engineer and FrontEnd Engineer
 - 📫 How to reach me : https://cevin-resume.firebaseapp.com/
 - 🤘🏻 Email me on : cevinways34@gmail.com
