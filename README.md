@@ -16,3 +16,8 @@ I am an experienced Software Engineer with over 6 years of expertise in mobile d
 [github]: https://github.com/CevinWays
 [gitlab]: https://gitlab.com/cevinways
 [threads]: https://www.threads.net/@alcornelis
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=CevinWays&count_private=true&show_icons=true&line_height=40)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CevinWays)](https://github.com/CevinWays/github-readme-stats)
+
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
