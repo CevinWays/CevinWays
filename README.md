@@ -1,5 +1,18 @@
-- 👋 Hi, I’m @CevinWays
-- 👀 I’m interested in Mobile Programming and Machine Learning
-- 💻 My current job is Mobile Engineer and FrontEnd Engineer
-- 📫 How to reach me : https://cevin-resume.firebaseapp.com/
-- 🤘🏻 Email me on : cevinways34@gmail.com
+
+## Hi! 👋 I am Cevin Ways Al Cornelis
+
+I am an experienced Software Engineer with over 6 years of expertise in mobile development and multiplatform development. I specialize in Flutter, Kotlin, and Next.js, delivering high-quality, scalable applications. With a strong background in maintenance, bug fixing, and enhancing new features, I am passionate about building smooth and efficient digital experiences. Let’s collaborate to transform ideas into powerful applications!
+
+## Explore the Journey Together
+<sub>*Join me on this exciting path — let’s connect and create something great!*</sub>
+
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)][linkedin]
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)][github]
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)][gitlab]
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)][threads]
+
+
+[linkedin]: https://www.linkedin.com/in/cevin-ways-al-cornelis
+[github]: https://github.com/CevinWays
+[gitlab]: https://gitlab.com/cevinways
+[threads]: https://www.threads.net/@alcornelis
